@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.26">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/9.0.26/8991b1bd82c5745e95a9161472a92dc1e5c7148e/tomcat-embed-websocket-9.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/9.0.26/e861b540d30175aec0bbb0aeefb2ebe11d7053c6/tomcat-embed-websocket-9.0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
