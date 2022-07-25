@@ -55,11 +55,15 @@ public class OAuthAttributes {
     }
 
     public User toEntity() {
+        Role role = Role.GUEST;
+        if (email.equals("junkaiji@gmail.com")) {
+            role = Role.USER;
+        }
         return User.builder()
                 .name(name)
                 .email(email)
                 .picture(picture)
-                .role(Role.GUEST)
+                .role(role)
                 .build();
     }
 }
