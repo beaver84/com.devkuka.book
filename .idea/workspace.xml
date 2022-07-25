@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1cbb5ad-dea6-49b1-a9ea-f13816fbc0eb" name="변경" comment="" />
+    <list default="true" id="c1cbb5ad-dea6-49b1-a9ea-f13816fbc0eb" name="변경" comment="챕터 5 어노테이션 기반으로 변경">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/dto/OAuthAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/dto/OAuthAttributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +21,384 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="test" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25ipapj5974SKAJ1YcmMoNPwN4m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="모듈" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Xeon\IdeaProjects\com.devkuka.book\src\main\resources\templates\layout" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.devkuka.book.springboot.web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="IndexControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.devkuka.book.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devkuka.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.devkuka.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.devkuka.book.springboot.web.IndexControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest.Posts_등록된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.devkuka.book.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devkuka.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.devkuka.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.devkuka.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_등록된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.devkuka.book.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devkuka.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.devkuka.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.devkuka.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.devkuka.book.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devkuka.book.springboot.domain.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.devkuka.book.springboot.domain.posts" />
+      <option name="MAIN_CLASS_NAME" value="com.devkuka.book.springboot.domain.posts.PostsRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsRepositoryTest.BaseTimeEntity_등록" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.devkuka.book.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devkuka.book.springboot.domain.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.devkuka.book.springboot.domain.posts" />
+      <option name="MAIN_CLASS_NAME" value="com.devkuka.book.springboot.domain.posts.PostsRepositoryTest" />
+      <option name="METHOD_NAME" value="BaseTimeEntity_등록" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="com.devkuka.book.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devkuka.book.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.IndexControllerTest" />
+        <item itemvalue="JUnit.PostsRepositoryTest.BaseTimeEntity_등록" />
+        <item itemvalue="JUnit.PostsApiControllerTest.Posts_등록된다" />
+        <item itemvalue="JUnit.PostsRepositoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="c1cbb5ad-dea6-49b1-a9ea-f13816fbc0eb" name="변경" comment="" />
+      <created>1646019832333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646019832333</updated>
+      <workItem from="1646019834415" duration="2425000" />
+      <workItem from="1646025875716" duration="3440000" />
+      <workItem from="1646056879249" duration="143000" />
+      <workItem from="1657090439232" duration="3325000" />
+      <workItem from="1657196000955" duration="1196000" />
+      <workItem from="1657224524333" duration="3662000" />
+      <workItem from="1657240336379" duration="902000" />
+      <workItem from="1657440908527" duration="2364000" />
+      <workItem from="1657456559080" duration="1002000" />
+      <workItem from="1657611331374" duration="629000" />
+      <workItem from="1658456852061" duration="2003000" />
+      <workItem from="1658585354048" duration="538000" />
+      <workItem from="1658647787909" duration="2991000" />
+      <workItem from="1658662668146" duration="751000" />
+      <workItem from="1658663568949" duration="3055000" />
+      <workItem from="1658709559350" duration="52000" />
+      <workItem from="1658718591520" duration="2394000" />
+    </task>
+    <task id="LOCAL-00001" summary=".idea 폴더를 앞으로의 모든 커밋 대상에서 제외">
+      <created>1646027438059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646027438059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="챕터2 완료">
+      <created>1657196068525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657196068526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="챕터3 도메인 생성 및 테스트">
+      <created>1657197201848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657197201848</updated>
+    </task>
+    <task id="LOCAL-00004" summary="챕터3 회원 등록 개발 및 테스트">
+      <created>1657441023546</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657441023546</updated>
+    </task>
+    <task id="LOCAL-00005" summary="챕터3 회원 수정, 조회 개발 및 테스트">
+      <created>1657442556942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657442556942</updated>
+    </task>
+    <task id="LOCAL-00006" summary="챕터3 BaseTimeEntity 기능 추가">
+      <created>1657457299414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657457299414</updated>
+    </task>
+    <task id="LOCAL-00007" summary="latest sync update">
+      <created>1658585385940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658585385940</updated>
+    </task>
+    <task id="LOCAL-00008" summary="page 138 까지">
+      <created>1658585875268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658585875268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="챕터 4까지 완료">
+      <created>1658662863310</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658662863310</updated>
+    </task>
+    <task id="LOCAL-00010" summary="버전없는 파일 커밋">
+      <created>1658663766068</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658663766068</updated>
+    </task>
+    <task id="LOCAL-00011" summary="버전없는 파일 커밋">
+      <created>1658663817730</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658663817730</updated>
+    </task>
+    <task id="LOCAL-00012" summary="버전없는 파일 커밋">
+      <created>1658663872426</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658663872426</updated>
+    </task>
+    <task id="LOCAL-00013" summary="챕터5 구글 로그인 되는것 확인">
+      <created>1658666467743</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658666467743</updated>
+    </task>
+    <task id="LOCAL-00014" summary="챕터 5 어노테이션 기반으로 변경">
+      <created>1658720475039</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658720475039</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".idea 폴더를 앞으로의 모든 커밋 대상에서 제외" />
+    <MESSAGE value="챕터2 완료" />
+    <MESSAGE value="챕터3 도메인 생성 및 테스트" />
+    <MESSAGE value="챕터3 회원 등록 개발 및 테스트" />
+    <MESSAGE value="챕터3 회원 수정, 조회 개발 및 테스트" />
+    <MESSAGE value="챕터3 BaseTimeEntity 기능 추가" />
+    <MESSAGE value="latest sync update" />
+    <MESSAGE value="page 138 까지" />
+    <MESSAGE value="챕터 4까지 완료" />
+    <MESSAGE value="버전없는 파일 커밋" />
+    <MESSAGE value="챕터5 구글 로그인 되는것 확인" />
+    <MESSAGE value="챕터 5 어노테이션 기반으로 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="챕터 5 어노테이션 기반으로 변경" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
