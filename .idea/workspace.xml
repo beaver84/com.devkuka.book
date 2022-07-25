@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1cbb5ad-dea6-49b1-a9ea-f13816fbc0eb" name="변경" comment="버전없는 파일 커밋">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/CustomOAuth2UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/dto/OAuthAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/dto/SessionUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/domain/user/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/domain/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/domain/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-oauth.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c1cbb5ad-dea6-49b1-a9ea-f13816fbc0eb" name="변경" comment="챕터5 구글 로그인 되는것 확인">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/LoginUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/config/auth/LoginUserArgumentResolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/IndexController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/web/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/web/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +42,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -250,7 +244,9 @@
       <workItem from="1658585354048" duration="538000" />
       <workItem from="1658647787909" duration="2991000" />
       <workItem from="1658662668146" duration="751000" />
-      <workItem from="1658663568949" duration="2164000" />
+      <workItem from="1658663568949" duration="3055000" />
+      <workItem from="1658709559350" duration="52000" />
+      <workItem from="1658718591520" duration="1709000" />
     </task>
     <task id="LOCAL-00001" summary=".idea 폴더를 앞으로의 모든 커밋 대상에서 제외">
       <created>1646027438059</created>
@@ -336,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658663872426</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="챕터5 구글 로그인 되는것 확인">
+      <created>1658666467743</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658666467743</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +379,8 @@
     <MESSAGE value="page 138 까지" />
     <MESSAGE value="챕터 4까지 완료" />
     <MESSAGE value="버전없는 파일 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="버전없는 파일 커밋" />
+    <MESSAGE value="챕터5 구글 로그인 되는것 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="챕터5 구글 로그인 되는것 확인" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
