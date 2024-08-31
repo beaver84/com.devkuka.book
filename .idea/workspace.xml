@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1cbb5ad-dea6-49b1-a9ea-f13816fbc0eb" name="변경" comment="챕터 5 어노테이션 기반으로 변경" />
+    <list default="true" id="c1cbb5ad-dea6-49b1-a9ea-f13816fbc0eb" name="변경" comment="버전 없는 파일 push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/Service/PostsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/auth/CustomOAuth2UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/auth/LoginUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/auth/LoginUserArgumentResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/auth/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/auth/dto/OAuthAttributes$OAuthAttributesBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/auth/dto/OAuthAttributes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/config/auth/dto/SessionUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/BaseTimeEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/posts/Posts$PostsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/posts/Posts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/posts/PostsRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/user/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/user/User$UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/domain/user/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/PostsApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/dto/HelloResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/dto/PostsListResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/dto/PostsResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/dto/PostsSaveRequestDto$PostsSaveRequestDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/dto/PostsSaveRequestDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/dto/PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/devkuka/book/springboot/web/dto/PostsUpdateRequestDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devkuka/book/springboot/Application.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +102,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="test" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,6 +119,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="25ipapj5974SKAJ1YcmMoNPwN4m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -93,29 +130,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="모듈" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "Spring Boot.Application.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -223,6 +258,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -248,6 +291,8 @@
       <workItem from="1658663568949" duration="3055000" />
       <workItem from="1658709559350" duration="52000" />
       <workItem from="1658718591520" duration="2394000" />
+      <workItem from="1673625169479" duration="608000" />
+      <workItem from="1725105589868" duration="2026000" />
     </task>
     <task id="LOCAL-00001" summary=".idea 폴더를 앞으로의 모든 커밋 대상에서 제외">
       <created>1646027438059</created>
@@ -347,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658720475039</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="버전 없는 파일 push">
+      <created>1658721349109</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658721349109</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +441,8 @@
     <MESSAGE value="버전없는 파일 커밋" />
     <MESSAGE value="챕터5 구글 로그인 되는것 확인" />
     <MESSAGE value="챕터 5 어노테이션 기반으로 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="챕터 5 어노테이션 기반으로 변경" />
+    <MESSAGE value="버전 없는 파일 push" />
+    <option name="LAST_COMMIT_MESSAGE" value="버전 없는 파일 push" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
